@@ -1,5 +1,5 @@
 import {calc} from './test';
 
 
-console.log('hello world');
-console.log(calc(23, 4))
+console.log('hello world efwqeqwrqewe');
+console.log(calc(232, 4))
